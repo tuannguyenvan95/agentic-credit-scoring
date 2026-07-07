@@ -1,0 +1,17 @@
+{
+  "name": "agentic-credit-scoring",
+  "version": "1.0.0",
+  "description": "Agentic Credit Scoring & Sybil Resistance System",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
